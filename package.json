@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@ethersproject/providers": "^5.7.2",
+    "@moralisweb3/auth": "^2.18.4",
+    "@moralisweb3/next": "^2.18.4",
+    "@openzeppelin/contracts": "^4.8.3",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@rainbow-me/rainbowkit": "^0.12.9",
+    "ethers": "^6.3.0",
+    "ganache-cli": "^6.12.2",
+    "moralis": "^2.18.4",
+    "next": "^13.3.0",
+    "next-auth": "^4.22.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "truffle": "^5.8.3",
+    "wagmi": "^0.12.12",
+    "web3": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.37",
+    "typescript": "^5.0.4"
+  }
+}
